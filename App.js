@@ -6,7 +6,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <View style={styles.header}>
-          <Text>nguyen leasda anh khoa (adasdqwd)</Text>
+          <Text>nguyen r1gsdsvleasda anh khoa (adasdqwd)</Text>
           <Text>dangkhoa</Text>
         </View>
       </View>
