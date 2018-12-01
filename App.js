@@ -7,6 +7,7 @@ export default class App extends React.Component {
       <View style={styles.container}>
         <View style={styles.header}>
           <Text>nguyen le an khoa </Text>
+          <Text>dangkhoa</Text>
         </View>
       </View>
     );
