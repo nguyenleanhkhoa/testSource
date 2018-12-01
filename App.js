@@ -6,7 +6,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <View style={styles.header}>
-          <Text>Color picker</Text>
+          <Text>Color dasdqwe</Text>
         </View>
       </View>
     );
