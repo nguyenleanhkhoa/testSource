@@ -6,10 +6,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <View style={styles.header}>
-          <Text>Color dasdqwe</Text>
-=======
           <Text>nguyen le an khoa </Text>
->>>>>>> de0f306c413b35977fd9fa96bf5f69ee1c1d3a0c
         </View>
       </View>
     );
